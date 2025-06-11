@@ -51,6 +51,7 @@ python hotspot_monitor.py
 طريقه تنزيل واستخدام الاداه
 git clone https://github.com/MOHAMED-MOKTAR-BAKAY/hotspot_monitor.py.git
 cd hotspot_monitor.py
+pip install -r requirements.txt
 
 
 عند إيقاف الأداة (Ctrl + C)، سيتم إنشاء تقرير بصيغة JSON في ملف:
