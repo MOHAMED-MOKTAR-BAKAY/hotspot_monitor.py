@@ -4,3 +4,9 @@
 
 ```txt
 rich>=13.0.0
+json
+socket
+time
+datetime
+collections
+threading
