@@ -48,6 +48,10 @@ python hotspot_monitor.py
 ---
 
 💾 حفظ التقرير
+طريقه تنزيل واستخدام الاداه
+git clone https://github.com/MOHAMED-MOKTAR-BAKAY/hotspot_monitor.py.git
+cd hotspot_monitor.py
+
 
 عند إيقاف الأداة (Ctrl + C)، سيتم إنشاء تقرير بصيغة JSON في ملف:
 
